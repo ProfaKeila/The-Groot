@@ -37,18 +37,16 @@ Fotos del robot:
 ![4_CaraPosterior](https://drive.google.com/file/d/1traH3sXKPXUG8ZuXYEWaXH9uMdiMpANi/view?usp=sharing)
 
 (iii). Cara Izquierda
-![5_CaraIzquierda](https://drive.google.com/file/d/1UoNeIBDTk-Vhcnf-7q5tTfFREHWpj2t-/view?usp=sharing)
+![lat1](https://github.com/ProfaKeila/The-Groot/assets/112026718/98cf4f8a-d144-44e2-957b-3924b24bd66a)
 
 (iv).	Cara Derecha
-![6_CaraDerecha](https://drive.google.com/file/d/14kPiB10HiTRGlH5HesU890bwspZahg04/view?usp=sharing)
+![lat2](https://github.com/ProfaKeila/The-Groot/assets/112026718/def411bb-de75-47bf-bd12-34f58ff1e1d1)
 
 (v).	Cara Superior
 ![hub sup](https://github.com/ProfaKeila/The-Groot/assets/112026718/4e526ebf-06bf-4e72-8857-3ad5700ab727)
-)
 
 (vi).	Cara inferior
-![8_CaraInferior](https://drive.google.com/file/d/1pjR1vqM4DN04cUg86X16e95kd1DywJLU/view?usp=sharing)
-
+![inf](https://github.com/ProfaKeila/The-Groot/assets/112026718/c8fc86aa-ca61-4bdf-86af-cee00f783939)
 
 ------------
 
