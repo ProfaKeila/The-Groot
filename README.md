@@ -58,7 +58,7 @@ Diseño del Robot
 Dando vueltas
 
 Round 1 Fixed center / Ronda 1 Centro Fijo
-[![Alt text](https://user-images.githubusercontent.com/112026718/188289446-870fff3d-0013-49d5-9703-20cf0f7fa475.gif)](https://youtu.be/2XueAw2JKws)
+[![Alt text](https://user-images.githubusercontent.com/112026718/188289446-870fff3d-0013-49d5-9703-20cf0f7fa475.gif)](https://youtu.be/4E5d0kaR8jM)
 
 Round 1 Mobile Center / Ronda 1 Centro Móvil
 [![Alt text](https://user-images.githubusercontent.com/112026718/201544888-fc7a2e47-9dd8-4d0d-9cae-53285449172e.gif)](https://youtu.be/p-i_P51mGfk)
