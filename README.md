@@ -43,7 +43,8 @@ Fotos del robot:
 ![6_CaraDerecha](https://drive.google.com/file/d/14kPiB10HiTRGlH5HesU890bwspZahg04/view?usp=sharing)
 
 (v).	Cara Superior
-![7_CaraSuperior](https://drive.google.com/file/d/1Yl7oeCz1NZkST1ByZu84-X9slSVpJFaA/view?usp=sharing))
+![hub sup](https://github.com/ProfaKeila/The-Groot/assets/112026718/4e526ebf-06bf-4e72-8857-3ad5700ab727)
+)
 
 (vi).	Cara inferior
 ![8_CaraInferior](https://drive.google.com/file/d/1pjR1vqM4DN04cUg86X16e95kd1DywJLU/view?usp=sharing)
