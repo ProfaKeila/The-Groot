@@ -1,13 +1,13 @@
 # The-Groot
-Robotics team The Goot
-# (Spanish version) The Ghost1 - WRO-2023
+Robotics team The Groot
+# (Spanish version) The Groot - WRO-2023
 Equipo de Robótica The Groot
 Groot es un robot programado para conducir de forma autónoma utilizando sensores y motores del equipo de LEGO MINDSTORMS Inventor 51515.
 
 #### Detalles del equipo:
 **Nombre del equipo**: The Groot
 
-**País**: Panamá
+**País**: Panamá, Panamá Oeste, Distrito de Capira.
 
 **Miembros del equipo**: Genesis Reinosa, Verónica Chacón y José Guisado.
 
@@ -31,22 +31,22 @@ Este repositorio contiene el detalle de la construcción del robot Groot, que pa
 
 Fotos del robot:
 (i).	Cara frontal
-![3_CaraFrontal](https://user-images.githubusercontent.com/112026718/201546216-843a4c68-539f-4312-9153-badf0156d9fa.jpg)
+![3_CaraFrontal](https://drive.google.com/file/d/1XGCIdrPiLiLjzNrPP7yrZwSmsqli3txM/view?usp=sharing)
 
 (ii).	Cara Posterior
-![4_CaraPosterior](https://user-images.githubusercontent.com/112026718/201546264-77172d85-d6cc-4784-949b-11ad88126aed.jpg)
+![4_CaraPosterior](https://drive.google.com/file/d/1traH3sXKPXUG8ZuXYEWaXH9uMdiMpANi/view?usp=sharing)
 
 (iii). Cara Izquierda
-![5_CaraIzquierda](https://user-images.githubusercontent.com/112026718/201546273-9a538390-bd10-4e0a-8457-2955d7f30be5.jpg)
+![5_CaraIzquierda](https://drive.google.com/file/d/1UoNeIBDTk-Vhcnf-7q5tTfFREHWpj2t-/view?usp=sharing)
 
 (iv).	Cara Derecha
-![6_CaraDerecha](https://user-images.githubusercontent.com/112026718/201546269-061d6054-ab26-4897-be73-92f326c7d745.jpg)
+![6_CaraDerecha](https://drive.google.com/file/d/14kPiB10HiTRGlH5HesU890bwspZahg04/view?usp=sharing)
 
 (v).	Cara Superior
-![7_CaraSuperior](https://user-images.githubusercontent.com/112026718/201546276-4f904db6-6c00-4778-97b2-4fe638a978f9.jpg)
+![7_CaraSuperior](https://drive.google.com/file/d/1Yl7oeCz1NZkST1ByZu84-X9slSVpJFaA/view?usp=sharing))
 
 (vi).	Cara inferior
-![8_CaraInferior](https://user-images.githubusercontent.com/112026718/201546268-cf412fa4-b449-47d1-a5ff-ad15e24e3c10.jpg)
+![8_CaraInferior](https://drive.google.com/file/d/1pjR1vqM4DN04cUg86X16e95kd1DywJLU/view?usp=sharing)
 
 
 ------------
@@ -54,7 +54,7 @@ Fotos del robot:
 ## **Enlace al video en Youtube**:
 Diseño del Robot
 
-[![Alt text](https://user-images.githubusercontent.com/112026718/201550395-60bba458-29f0-4cc2-a92a-79ca1521a143.gif)](https://youtu.be/oPJUW5as5pk))
+[![Alt text](https://youtu.be/wnwVR5ICpu8)
 
 Dando vueltas
 
