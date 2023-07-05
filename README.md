@@ -61,11 +61,8 @@ Round 1 Fixed center / Ronda 1 Centro Fijo
 [![Alt text](https://user-images.githubusercontent.com/112026718/188289446-870fff3d-0013-49d5-9703-20cf0f7fa475.gif)](https://youtu.be/4E5d0kaR8jM)
 
 Round 1 Mobile Center / Ronda 1 Centro Móvil
-[![Alt text](https://user-images.githubusercontent.com/112026718/201544888-fc7a2e47-9dd8-4d0d-9cae-53285449172e.gif)](https://youtu.be/p-i_P51mGfk)
+[![Alt text](https://user-images.githubusercontent.com/112026718/201544888-fc7a2e47-9dd8-4d0d-9cae-53285449172e.gif)](https://youtu.be/4E5d0kaR8jM)
 
-Evitando obstaculos
-
-[![Alt text](https://user-images.githubusercontent.com/112026718/188289545-f1eeb4a0-b45a-4bdb-90fe-f92e0548286c.gif)](https://youtu.be/pBEFuexwxLQ)
 
 Diagrama esquematico:
 A continuación se presenta un boceto de todos los componentes electrónicos utilizados.
