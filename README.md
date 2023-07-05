@@ -53,7 +53,7 @@ Fotos del robot:
 ## **Enlace al video en Youtube**:
 Diseño del Robot
 
-![Video1](https://youtu.be/wnwVR5ICpu8)
+[![Video1](https://youtu.be/wnwVR5ICpu8)](https://github.com/ProfaKeila/The-Groot/assets/112026718/c8fc86aa-ca61-4bdf-86af-cee00f783939)
 
 Dando vueltas
 
