@@ -53,7 +53,7 @@ Fotos del robot:
 ## **Enlace al video en Youtube**:
 Diseño del Robot
 
-[![Alt text](https://youtu.be/wnwVR5ICpu8)
+![Video1](https://youtu.be/wnwVR5ICpu8)
 
 Dando vueltas
 
@@ -77,7 +77,7 @@ A continuación se presenta un boceto de todos los componentes electrónicos uti
 
 
 Componentes Electromecanicos:
-El Robot Matt se construyo utilizando el kit de robótica de LEGO MINDSTORMS Inventor 51515. Ahora una breve descripción de cada componente electromecanico utilizado para la creación de este robot autónomo.
+El Robot se construyo utilizando el kit de robótica de LEGO MINDSTORMS Inventor 51515. Ahora una breve descripción de cada componente electromecanico utilizado para la creación de este robot autónomo.
 
 Los alerones funcionan para reducir la resistencia del aire, y descubrimos que al utilizarlo, aumenta la velocidad 40%, dandole mayor rendimiento aerodimanico, además de que permite el enfriamento de los motores, adicional a ello la carga aerodinamica se adhiera al piso, y de mejores giros.
 
