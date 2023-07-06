@@ -30,6 +30,7 @@ Este repositorio contiene el detalle de la construcción del robot Groot, que pa
 ![Carrusel de fotos ](https://github.com/ProfaKeila/The-Groot/assets/112026718/af9ee1f7-a4c2-4ad2-b629-48ccbaddd912)
 
 **Fotos del robot:**
+
 (i).	Cara frontal
 ![frontal](https://github.com/ProfaKeila/The-Groot/assets/112026718/42a04998-14ac-4aae-a103-18d1d24857d3)
 
