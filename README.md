@@ -1,4 +1,4 @@
-# The-Groot
+![image](https://github.com/ProfaKeila/The-Groot/assets/112026718/496e7bef-9881-4c0b-9a4f-9c0443758a52)# The-Groot
 Robotics team The Groot
 # (Spanish version) The Groot - WRO-2023
 Equipo de Robótica The Groot
@@ -69,10 +69,10 @@ Round 1 Mobile Center / Ronda 1 Centro Móvil
 Diagrama esquematico:
 A continuación se presenta un boceto de todos los componentes electrónicos utilizados.
 
-![guif construcción](https://user-images.githubusercontent.com/112026718/201570555-7cdde8ad-c253-4419-8a43-3e3caded1163.gif)
+ 
+ Diagrama  
+![Diagrama esquemático ](https://github.com/ProfaKeila/The-Groot/assets/112026718/56919665-21c6-4a8c-b158-5e3c8ec92119)
 
-
-![Alt text](https://user-images.githubusercontent.com/112026718/201570175-7d4e6c79-e1e1-46af-abbf-3495805a4f43.gif)
 
 
 
