@@ -1,4 +1,4 @@
-![guif construcción](https://github.com/ProfaKeila/The-Groot/assets/112026718/854707da-cc16-43aa-9cb1-158253b2b8e0)The-Groot
+# The-Groot
 Robotics team The Groot
 # (Spanish version) The Groot - WRO-2023
 Equipo de Robótica The Groot
