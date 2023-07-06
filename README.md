@@ -68,8 +68,9 @@ Round 1 Mobile Center / Ronda 1 Centro Móvil
 
 Diagrama esquematico:
 A continuación se presenta un boceto de todos los componentes electrónicos utilizados.
+
  
- Diagramas  
+Diagramas  
 ![Diagrama esquemático ](https://github.com/ProfaKeila/The-Groot/assets/112026718/56919665-21c6-4a8c-b158-5e3c8ec92119)
 
 ![guif construcción](https://github.com/ProfaKeila/The-Groot/assets/112026718/188f8ff4-d7a4-4a76-878f-c681aa7d0da7)
@@ -84,6 +85,6 @@ Motores:
 1.	**Motor traser**: Este  motor interconectado a un engranaje  permite la rotación de las ruedas traseras, dando tracción trasera y torque en el movimiento.
 2.	**Motor delantero**: Este motor es el que permite la dirección al robot, y le permite el movimiento en los diferentes sentido.
 
-Sensores:
+**Sensores:**
 1.	Sensor Ultrasonico: Este sensor se utiliza en su mayoría de veces para la medición de distancias y evasión de objetos.
 3.	Sensor de color: cuenta con una alta precisión en su frecuencia de muestreo de 1kHz, lo cual garantiza la obtención de datos precisos para lograr resultados repetibles. Además, tiene la capacidad de detectar 8 colores y medir tanto la intensidad de la luz blanca reflejada como la luz ambiente. Su factor de forma simple permite construirlo y reconstruirlo rápidamente, facilitando su uso y adaptación en diferentes situaciones..
