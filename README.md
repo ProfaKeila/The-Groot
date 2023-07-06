@@ -13,6 +13,7 @@ Groot es un robot programado para conducir de forma autónoma utilizando sensore
 
 **Entrenadora**: Keila Chacón
 
+--------------------
 
 #### Material de ingenieria:
 Este repositorio contiene el detalle de la construcción del robot Groot, que participa en la competencia WRO-FUTUROS INGENIEROS en la temporada Regional de Panamá 2023.
@@ -25,6 +26,8 @@ Este repositorio contiene el detalle de la construcción del robot Groot, que pa
 **Boceto**: Contiene un esquema detallado de las partes electrónicos y motores de este robot y como se conectan para su funcionamiento. 
 
 **Diagrama de lógica de conectividad**: Contiene una explicación del software, para los sensores y motores que fueron programados para la automatización del Robot.
+
+---------
 
 #### Carrucel de fotos del equipo:
 ![Carrusel de fotos ](https://github.com/ProfaKeila/The-Groot/assets/112026718/af9ee1f7-a4c2-4ad2-b629-48ccbaddd912)
@@ -52,8 +55,12 @@ Este repositorio contiene el detalle de la construcción del robot Groot, que pa
 ------------
 
 ## **Enlace al video en Youtube**:
+
 Diseño del Robot
 
+[![Alt text](https://user-images.githubusercontent.com/112026718/201550395-60bba458-29f0-4cc2-a92a-79ca1521a143.gif)](https://youtu.be/wnwVR5ICpu8)
+
+![Imagen1](https://github.com/ProfaKeila/The-Groot/assets/112026718/058ca0d4-a26b-46f6-ae5d-7cb4eec392ce)
 [![Video1](https://github.com/ProfaKeila/The-Groot/assets/112026718/c8fc86aa-ca61-4bdf-86af-cee00f783939)](https://youtu.be/wnwVR5ICpu8)
 
 **Dando vueltas**
@@ -69,7 +76,6 @@ Round 1 Mobile Center / Ronda 1 Centro Móvil
 
 **Diagrama esquematico:**
 A continuación se presenta un boceto de todos los componentes electrónicos utilizados.
-
  
 **Diagramas**  
 ![Diagrama esquemático ](https://github.com/ProfaKeila/The-Groot/assets/112026718/56919665-21c6-4a8c-b158-5e3c8ec92119)
