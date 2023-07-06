@@ -11,7 +11,7 @@ Groot es un robot programado para conducir de forma autónoma utilizando sensore
 
 **Miembros del equipo**: Genessis Reinosa, Verónica Chacón y José Guisado.
 
-**Entrenadora**: Keila Chacón
+**Entrenadora**: Keila Chacón 
 
 --------------------
 
