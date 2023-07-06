@@ -9,7 +9,7 @@ Groot es un robot programado para conducir de forma autónoma utilizando sensore
 
 **País**: Panamá, Panamá Oeste, Distrito de Capira.
 
-**Miembros del equipo**: Genesis Reinosa, Verónica Chacón y José Guisado.
+**Miembros del equipo**: Genessis Reinosa, Verónica Chacón y José Guisado.
 
 **Entrenadora**: Keila Chacón
 
