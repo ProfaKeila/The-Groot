@@ -69,7 +69,7 @@ Round 1 Mobile Center / Ronda 1 Centro Móvil
 Diagrama esquematico:
 A continuación se presenta un boceto de todos los componentes electrónicos utilizados.
  
- Diagrama  
+ Diagramas  
 ![Diagrama esquemático ](https://github.com/ProfaKeila/The-Groot/assets/112026718/56919665-21c6-4a8c-b158-5e3c8ec92119)
 
 ![guif construcción](https://github.com/ProfaKeila/The-Groot/assets/112026718/188f8ff4-d7a4-4a76-878f-c681aa7d0da7)
@@ -80,14 +80,10 @@ A continuación se presenta un boceto de todos los componentes electrónicos uti
 Componentes Electromecanicos:
 El Robot se construyo utilizando el kit de robótica de LEGO MINDSTORMS Inventor 51515. Ahora una breve descripción de cada componente electromecanico utilizado para la creación de este robot autónomo.
 
-Los alerones funcionan para reducir la resistencia del aire, y descubrimos que al utilizarlo, aumenta la velocidad 40%, dandole mayor rendimiento aerodimanico, además de que permite el enfriamento de los motores, adicional a ello la carga aerodinamica se adhiera al piso, y de mejores giros.
-
 Motores: 
-1.	**Motores traseros**: Estos tres motores interconectados en la rueda, en el motor trasero izquierdo en el puerto E, posee un engranaje que permite la rotación de las ruedas traseras, y son los pilares del movimiento del este robot autónomo, por poseer tracción trasera, se utilizan dos para tener mayor tracción y torque en el movimiento.
-2.	**Motor delantero**: Este motor es quien le da la dirección al robot, y le permite el movimiento en los diferentes sentido.
+1.	**Motor traser**: Este  motor interconectado a un engranaje  permite la rotación de las ruedas traseras, dando tracción trasera y torque en el movimiento.
+2.	**Motor delantero**: Este motor es el que permite la dirección al robot, y le permite el movimiento en los diferentes sentido.
 
 Sensores:
-1.	Cámara HuskyLens: tomada como reemplazo de sensor de color del set del inventor kit,  adopta la nueva generación de chips de IA, es utilizada para el reconocimiento de color y forma de objetos llamados obstáculos. 
-2.	Sensor Ultrasonico: Este sensor se utiliza en su mayoría de veces para la medición de distancias y evasión de objetos.
-3.	Sensor Giroscopio: Este sensor se utiliza para precisar giros utilizando mejor los ángulos.
-Hub: Este componente es el cerebro del robot, es quien indica a los motores que hacer, y recibe la información de los sensores para tomar las decisiones que vuelven a este robot un vehículo autónomo, para su mejor utilidad contiene un botón de inicio /apagado, y otros dos de izquierda y derecha.
+1.	Sensor Ultrasonico: Este sensor se utiliza en su mayoría de veces para la medición de distancias y evasión de objetos.
+3.	Sensor de color: cuenta con una alta precisión en su frecuencia de muestreo de 1kHz, lo cual garantiza la obtención de datos precisos para lograr resultados repetibles. Además, tiene la capacidad de detectar 8 colores y medir tanto la intensidad de la luz blanca reflejada como la luz ambiente. Su factor de forma simple permite construirlo y reconstruirlo rápidamente, facilitando su uso y adaptación en diferentes situaciones..
