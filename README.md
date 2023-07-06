@@ -58,7 +58,10 @@ Este repositorio contiene el detalle de la construcción del robot Groot, que pa
 
 Diseño del Robot
 
-[![Alt text](https://github.com/ProfaKeila/The-Groot/assets/112026718/c8fc86aa-ca61-4bdf-86af-cee00f783939)](https://www.youtube.com/watch?v=wnwVR5ICpu8&feature=youtu.be)
+
+[![545](https://github.com/ProfaKeila/The-Groot/assets/112026718/5eab66ea-7aba-4d44-9733-9c70f6a0706b)](https://www.youtube.com/watch?v=wnwVR5ICpu8)
+
+[![design](https://github.com/ProfaKeila/The-Groot/assets/112026718/5eab66ea-7aba-4d44-9733-9c70f6a0706b)](https://www.youtube.com/watch?v=wnwVR5ICpu8)
 
 **Dando vueltas**
 
