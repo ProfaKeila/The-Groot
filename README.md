@@ -58,11 +58,16 @@ Este repositorio contiene el detalle de la construcción del robot Groot, que pa
 
 Diseño del Robot
 
-[![545](assets/545.png)](https://www.youtube.com/watch?v=wnwVR5ICpu8)
+[![Explain](assets/545.png)](https://www.youtube.com/watch?v=wnwVR5ICpu8)
 
 **Dando vueltas**
 
 Round 1 Fixed center / Ronda 1 Centro Fijo
+| Left | Right |
+| [![Left_Video](assets/Click Aqui.png)](https://youtube.com/watch?v=YElV2cVlcGc&feature=share) | [![Right_Video](assets/Click Aqui2.png)](https://youtube.com/watch?v=4E5d0kaR8jM&feature=share) |
+|-----------------------------------------------------------------------------------------------+--------------------|
+
+
 
 
 
