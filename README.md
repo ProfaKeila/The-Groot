@@ -88,7 +88,7 @@ A continuación se presenta un boceto de todos los componentes electrónicos uti
 **Diagramas**  
 ![Diagrama esquemático 2](https://github.com/ProfaKeila/The-Groot/assets/112026718/d930809b-5c4d-4226-93a9-a6cc62784785)
 
-![guif construcción](https://github.com/ProfaKeila/The-Groot/assets/112026718/188f8ff4-d7a4-4a76-878f-c681aa7d0da7)
+ ![guif construcción](https://github.com/ProfaKeila/The-Groot/assets/112026718/c182dd1a-9856-413f-9043-af44294f3991)
 
 
 
