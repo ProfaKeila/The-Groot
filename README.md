@@ -32,6 +32,10 @@ Este repositorio contiene el detalle de la construcción del robot Groot, que pa
 #### Carrucel de fotos del equipo:
 ![Carrusel de fotos ](https://github.com/ProfaKeila/The-Groot/assets/112026718/af9ee1f7-a4c2-4ad2-b629-48ccbaddd912)
 
+------------------------------------
+# **Versión 1**
+------------------------------------
+
 **Fotos del robot:**
 
 (i).	Cara frontal
@@ -98,3 +102,27 @@ El Robot se construyo utilizando el kit de robótica de LEGO MINDSTORMS Inventor
 **Sensores:**
 1.	**Sensor Ultrasonico:** Este sensor se utiliza en su mayoría de veces para la medición de distancias y evasión de objetos.
 3.	**Sensor de color:** cuenta con una alta precisión en su frecuencia de muestreo de 1kHz, lo cual garantiza la obtención de datos precisos para lograr resultados repetibles. Además, tiene la capacidad de detectar 8 colores y medir tanto la intensidad de la luz blanca reflejada como la luz ambiente. Su factor de forma simple permite construirlo y reconstruirlo rápidamente, facilitando su uso y adaptación en diferentes situaciones..
+
+----------------------------------------------------------
+# **Versión 1**
+----------------------------------------------------------
+
+(i).	Cara frontal
+![frontal](https://github.com/ProfaKeila/The-Groot/assets/112026718/42a04998-14ac-4aae-a103-18d1d24857d3)
+
+(ii).	Cara Posterior
+![trasera](https://github.com/ProfaKeila/The-Groot/assets/112026718/5beda6c1-b0c8-43f2-b230-fd66f933e21e)
+
+(iii). Cara Izquierda
+![lat1](https://github.com/ProfaKeila/The-Groot/assets/112026718/98cf4f8a-d144-44e2-957b-3924b24bd66a)
+
+(iv).	Cara Derecha
+![lat2](https://github.com/ProfaKeila/The-Groot/assets/112026718/def411bb-de75-47bf-bd12-34f58ff1e1d1)
+
+(v).	Cara Superior
+![hub sup](https://github.com/ProfaKeila/The-Groot/assets/112026718/4e526ebf-06bf-4e72-8857-3ad5700ab727)
+
+(vi).	Cara inferior
+![inf](https://github.com/ProfaKeila/The-Groot/assets/112026718/c8fc86aa-ca61-4bdf-86af-cee00f783939)
+
+------------
