@@ -68,7 +68,7 @@ Diseño del Robot
 **Dando vueltas**
 
 Round 1 Fixed center / Ronda 1 Centro Fijo
-| Left | Right |
+| Left | derecha |
 |----------------------------|:-------------------|
 | [![Left_Video](assets/GreenClick.jpeg)](https://youtube.com/watch?v=YElV2cVlcGc&feature=share) | [![Right_Video](assets/RedClick.png)](https://youtube.com/watch?v=4E5d0kaR8jM&feature=share) |
 
