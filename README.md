@@ -33,30 +33,31 @@ Este repositorio contiene el detalle de la construcción del robot Groot, que pa
 ![Carrusel de fotos ](https://github.com/ProfaKeila/The-Groot/assets/112026718/af9ee1f7-a4c2-4ad2-b629-48ccbaddd912)
 
 ------------------------------------
-# **Versión 1**
+# **Versión 2**
 ------------------------------------
 
 **Fotos del robot:**
 
 (i).	Cara frontal
-![frontal](https://github.com/ProfaKeila/The-Groot/assets/112026718/42a04998-14ac-4aae-a103-18d1d24857d3)
+![6](https://github.com/ProfaKeila/The-Groot/assets/112026718/6d3e45e5-0ad2-48fb-a51a-cba3dcfb0be2)
 
 (ii).	Cara Posterior
-![trasera](https://github.com/ProfaKeila/The-Groot/assets/112026718/5beda6c1-b0c8-43f2-b230-fd66f933e21e)
+![4](https://github.com/ProfaKeila/The-Groot/assets/112026718/468eeb0f-923e-4e44-a1e9-60792496708e)
 
 (iii). Cara Izquierda
-![lat1](https://github.com/ProfaKeila/The-Groot/assets/112026718/98cf4f8a-d144-44e2-957b-3924b24bd66a)
+ ![2](https://github.com/ProfaKeila/The-Groot/assets/112026718/5f14f6a7-c911-4be3-a8f6-131599e371dd)
 
 (iv).	Cara Derecha
-![lat2](https://github.com/ProfaKeila/The-Groot/assets/112026718/def411bb-de75-47bf-bd12-34f58ff1e1d1)
+![1](https://github.com/ProfaKeila/The-Groot/assets/112026718/18eea2c0-20dd-4ef7-9c04-f3beab611380)
 
 (v).	Cara Superior
-![hub sup](https://github.com/ProfaKeila/The-Groot/assets/112026718/4e526ebf-06bf-4e72-8857-3ad5700ab727)
+ ![5](https://github.com/ProfaKeila/The-Groot/assets/112026718/56a665a6-f720-401e-a355-197974b35a24)
 
 (vi).	Cara inferior
-![inf](https://github.com/ProfaKeila/The-Groot/assets/112026718/c8fc86aa-ca61-4bdf-86af-cee00f783939)
+ ![3](https://github.com/ProfaKeila/The-Groot/assets/112026718/c44ab4d9-f840-456b-b19f-091b39ee355f)
 
-------------
+------------------------------------------------
+------------------------------------------------
 
 ## **Enlace al video en Youtube**:
 
