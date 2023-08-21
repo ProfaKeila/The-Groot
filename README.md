@@ -73,10 +73,10 @@ Diseño del Robot
 
 **Dando vueltas**
 
-Round 1 Fixed center / Ronda 1 Centro Fijo
-| Left | derecha |
-|----------------------------|:-------------------|
-| [![Left_Video](assets/GreenClick.jpeg)](https://youtube.com/watch?v=YElV2cVlcGc&feature=share) | [![Right_Video](assets/RedClick.png)](https://youtube.com/watch?v=4E5d0kaR8jM&feature=share) |
+Izquierda o decrecha con una sola programación
+Ángulos de Guiño 
+
+ [![Left_Video](assets/GreenClick.jpeg)](https://youtu.be/2Pd3Xvt8iUM) 
 
 **Diagrama esquematico:**
 A continuación se presenta un boceto de todos los componentes electrónicos utilizados.
