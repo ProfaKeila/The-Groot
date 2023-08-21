@@ -69,7 +69,7 @@ Este repositorio contiene el detalle de la construcción del robot Groot, que pa
 
 Diseño del Robot
 
-[![Explain](assets/545.png)](https://www.youtube.com/watch?v=wnwVR5ICpu8)
+[![Explain](assets/545.png)](https://youtu.be/4QOwgeUl5-I?si=DpHX9Tr0fYKvHIKd)
 
 **Dando vueltas**
 
