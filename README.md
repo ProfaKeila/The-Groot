@@ -39,21 +39,27 @@ Este repositorio contiene el detalle de la construcción del robot Groot, que pa
 **Fotos del robot:**
 
 (i).	Cara frontal
- 
+ ![frontal](https://github.com/ProfaKeila/The-Groot/assets/112026718/7c74ec36-7037-46b6-8f93-2ec1be524e89)
+
 
 (ii).	Cara Posterior
- 
+ ![posterior](https://github.com/ProfaKeila/The-Groot/assets/112026718/6d06613f-7661-411a-9901-563f9ba9ef47)
+
 
 (iii). Cara Izquierda
- 
+ ![lateral izquierdo](https://github.com/ProfaKeila/The-Groot/assets/112026718/59579062-eff8-4158-9bdd-41f98c15f96a)
+
 
 (iv).	Cara Derecha
- 
+ ![derecha](https://github.com/ProfaKeila/The-Groot/assets/112026718/0f1625d7-346f-41c9-bd50-10b3decb72f8)
+
 
 (v).	Cara Superior
- 
+ ![arribaAM](https://github.com/ProfaKeila/The-Groot/assets/112026718/6e5b0fe3-5fef-454f-99ef-0739b9e6584a)
+
 
 (vi).	Cara inferior
+![anajoAM](https://github.com/ProfaKeila/The-Groot/assets/112026718/7a0d0976-071c-4e49-992f-f4d3f9726c4b)
 
   
 ------------------------------------------------
@@ -72,21 +78,13 @@ Round 1 Fixed center / Ronda 1 Centro Fijo
 |----------------------------|:-------------------|
 | [![Left_Video](assets/GreenClick.jpeg)](https://youtube.com/watch?v=YElV2cVlcGc&feature=share) | [![Right_Video](assets/RedClick.png)](https://youtube.com/watch?v=4E5d0kaR8jM&feature=share) |
 
-
-
-Round 1 Mobile Center / Ronda 1 Centro Móvil
-
-
-
-
 **Diagrama esquematico:**
 A continuación se presenta un boceto de todos los componentes electrónicos utilizados.
  
 **Diagramas**  
-![Diagrama esquemático 2](https://github.com/ProfaKeila/The-Groot/assets/112026718/d930809b-5c4d-4226-93a9-a6cc62784785)
+![Diagrama esquemático ](https://github.com/ProfaKeila/The-Groot/assets/112026718/0ed0c8ac-8561-4d94-a89e-b28cebbeec75)
 
- ![guif construcción](https://github.com/ProfaKeila/The-Groot/assets/112026718/c182dd1a-9856-413f-9043-af44294f3991)
-
+![guif construcción](https://github.com/ProfaKeila/The-Groot/assets/112026718/a383674c-7c57-477c-a89f-57e265497314)
 
 **Componentes Electromecanicos:**
 El Robot se construyo utilizando el kit de robótica de LEGO MINDSTORMS Inventor 51515. Ahora una breve descripción de cada componente electromecanico utilizado para la creación de este robot autónomo.
