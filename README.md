@@ -78,9 +78,10 @@ Izquierda o decrecha con una sola programación
 
  [![Left_Video](assets/GreenClick.jpeg)](https://youtu.be/2Pd3Xvt8iUM) 
 
- Evitando el obstáculo 
+Evitando el obstáculo 
+ 
 
-  [![Left_Video](assets/GreenClick.jpeg)](https://youtu.be/_-UqVCLI1og?si=oOWh4Tbge2MKK2M2) 
+ [![Left_Video](assets/GreenClick.jpeg)](https://youtu.be/_-UqVCLI1og?si=oOWh4Tbge2MKK2M2) 
 
 **Diagrama esquematico:**
 A continuación se presenta un boceto de todos los componentes electrónicos utilizados.
