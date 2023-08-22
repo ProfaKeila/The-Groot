@@ -99,6 +99,7 @@ El Robot se construyo utilizando el kit de robótica de LEGO Spike Prime. Ahora 
 
 ----------------------------------------------------------
 **Cerebro o Hub**
+
 Es como un bloque avanzado lleno de asombrosas capacidades, tiene 6 puertos para conectar sensores y motores, una pizarra con 25 luces que puedes personalizar, así como también la posibilidad de comunicarte a través de Bluetooth. Además, cuenta con un altavoz para hacer ruidos y un giroscopio inteligente de 6 ejes que capta movimientos en todas direcciones.
 La batería es recargable para mantenerlo en funcionamiento durante un tiempo prolongado antes de necesitar cargarlo. Este dispositivo trae consigo su propio sistema operativo, como un cerebro, que es el MicroPython. También puede almacenar hasta 20 programas.
 Las luces incorporadas, dispuestas en una matriz 5x5, añaden un toque visual interactivo, mientras que su capacidad para hablar a través del altavoz y su conexión inalámbrica Bluetooth amplían las posibilidades de diversión. 
