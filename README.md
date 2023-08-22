@@ -73,6 +73,11 @@ Diseño del Robot
 
 **Dando vueltas**
 
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
 |--- | ---|
 |Izquierda o decrecha con una sola programación |Evitando el obstáculo              |
 | Ángulos de Guiño                              | Ángulo de guiño y sensor de color |
