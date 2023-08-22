@@ -2,7 +2,7 @@
 Robotics team The Groot
 # (Spanish version) The Groot - WRO-2023
 Equipo de Robótica The Groot
-Groot es un robot programado para conducir de forma autónoma utilizando sensores y motores del equipo de LEGO MINDSTORMS Inventor 51515.
+Groot es un robot programado para conducir de forma autónoma utilizando sensores y motores del equipo de LEGO Spike Prime.
 
 #### Detalles del equipo:
 **Nombre del equipo**: The Groot
@@ -87,11 +87,11 @@ A continuación se presenta un boceto de todos los componentes electrónicos uti
 ![guif construcción](https://github.com/ProfaKeila/The-Groot/assets/112026718/a383674c-7c57-477c-a89f-57e265497314)
 
 **Componentes Electromecanicos:**
-El Robot se construyo utilizando el kit de robótica de LEGO MINDSTORMS Inventor 51515. Ahora una breve descripción de cada componente electromecanico utilizado para la creación de este robot autónomo.
+El Robot se construyo utilizando el kit de robótica de LEGO Spike Prime. Ahora una breve descripción de cada componente electromecanico utilizado para la creación de este robot autónomo.
 
 **Motores:** 
-1.	**Motor traser**: Este  motor interconectado a un engranaje  permite la rotación de las ruedas traseras, dando tracción trasera y torque en el movimiento.
-2.	**Motor delantero**: Este motor es el que permite la dirección al robot, y le permite el movimiento en los diferentes sentido.
+1.	**Motor trasero Angular grande**: Este  motor interconectado a un engranaje  permite la rotación de las ruedas traseras, dando tracción trasera y torque en el movimiento.
+2.	**Motor delantero Angular mediano**: Este motor es el que permite la dirección al robot, y le permite el movimiento en los diferentes sentido.
 
 **Sensores:**
 1.	**Sensor Ultrasonico:** Este sensor se utiliza en su mayoría de veces para la medición de distancias y evasión de objetos.
