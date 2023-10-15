@@ -16,7 +16,7 @@ Groot es un robot programado para conducir de forma autónoma utilizando sensore
 --------------------
 
 #### Material de ingenieria:
-Este repositorio contiene el detalle de la construcción del robot Groot, que participa en la competencia WRO-FUTUROS INGENIEROS en la temporada Regional de Panamá 2023.
+Este repositorio contiene el detalle de la construcción del robot Groot, que participa en la competencia WRO-FUTUROS INGENIEROS en la temporada mundial WRO Panamá 2023.
 **Datos**:
 
 **Fotos del Equipo**: Contiene un carrucel de fotos del equipo.
