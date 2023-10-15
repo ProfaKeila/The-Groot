@@ -95,7 +95,8 @@ El Robot se construyo utilizando el kit de robótica de LEGO Spike Prime. Ahora 
 
 **Sensores:**
 1.	**Sensor Ultrasonico:** Este sensor se utiliza en su mayoría de veces para la medición de distancias y evasión de objetos.
-3.	**Sensor de color:** cuenta con una alta precisión en su frecuencia de muestreo de 1kHz, lo cual garantiza la obtención de datos precisos para lograr resultados repetibles. Además, tiene la capacidad de detectar 8 colores y medir tanto la intensidad de la luz blanca reflejada como la luz ambiente. Su factor de forma simple permite construirlo y reconstruirlo rápidamente, facilitando su uso y adaptación en diferentes situaciones..
+2.	.	**Sensor de color:** cuenta con una alta precisión en su frecuencia de muestreo de 1kHz, lo cual garantiza la obtención de datos precisos para lograr resultados repetibles. Además, tiene la capacidad de detectar 8 colores y medir tanto la intensidad de la luz blanca reflejada como la luz ambiente. Su factor de forma simple permite construirlo y reconstruirlo rápidamente, facilitando su uso y adaptación en diferentes situaciones.
+3.	Cámara HuskyLens: tomada como reemplazo de sensor de color del conjunto del Spike Prime, adopta la nueva generación de chips de IA, es utilizada para el reconocimiento de color y forma de objetos llamados obstáculos.
 
 ----------------------------------------------------------
 **Cerebro o Hub**
