@@ -84,10 +84,8 @@ Diseño del Robot
 
 **Diagrama esquematico:**
 A continuación se presenta un boceto de todos los componentes electrónicos utilizados.
- 
-**Diagramas**  
-![Diagrama esquemático ](https://github.com/ProfaKeila/The-Groot/assets/112026718/0ed0c8ac-8561-4d94-a89e-b28cebbeec75)
-![guif construcción](https://github.com/ProfaKeila/The-Groot/assets/112026718/758c4512-ce66-49e6-b707-334bfb112501)
+
+![guif construcción](https://github.com/ProfaKeila/The-Groot/assets/112026718/758c4512-ce66-49e6-b707-334bfb112501) 
 
 ![guif construcción](https://github.com/ProfaKeila/The-Groot/assets/112026718/a383674c-7c57-477c-a89f-57e265497314)
 
