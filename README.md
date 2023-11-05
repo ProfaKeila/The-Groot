@@ -87,8 +87,6 @@ A continuación se presenta un boceto de todos los componentes electrónicos uti
 
 ![guif construcción](https://github.com/ProfaKeila/The-Groot/assets/112026718/758c4512-ce66-49e6-b707-334bfb112501) 
 
-![guif construcción](https://github.com/ProfaKeila/The-Groot/assets/112026718/a383674c-7c57-477c-a89f-57e265497314)
-
 **Componentes Electromecanicos:**
 El Robot se construyo utilizando el kit de robótica de LEGO Spike Prime. Ahora una breve descripción de cada componente electromecanico utilizado para la creación de este robot autónomo.
 
