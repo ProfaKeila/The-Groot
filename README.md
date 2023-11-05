@@ -20,6 +20,7 @@ Este repositorio contiene el detalle de la construcción del robot Groot, que pa
 **Datos**:
 
 **Fotos del Equipo**: Contiene un carrucel de fotos del equipo.
+                      Foto formal y foto loca 
 
 **Fotos del Vehículo**: Contiene seis fotos del Robot, desde seis ángulos distintos, el video de la conducción del Robot se encuentra en el siguiente enlace.
 
@@ -31,6 +32,10 @@ Este repositorio contiene el detalle de la construcción del robot Groot, que pa
 
 #### Carrucel de fotos del equipo:
 ![Carrusel de fotos ](https://github.com/ProfaKeila/The-Groot/assets/112026718/af9ee1f7-a4c2-4ad2-b629-48ccbaddd912)
+**Fotos formal del Equipo**
+![Formal](https://github.com/ProfaKeila/The-Groot/assets/112026718/a4da87f2-7b3a-4bbd-911e-92c6cf54db18)
+**Fotos informal del Equipo**
+![Loca](https://github.com/ProfaKeila/The-Groot/assets/112026718/63f75d30-57f7-45ae-bee4-7e51c4b50731)
 
 ------------------------------------
 # **Versión 2**
