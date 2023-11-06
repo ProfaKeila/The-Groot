@@ -86,18 +86,15 @@ A continuación se presenta un boceto de todos los componentes electrónicos uti
 
 ![guif construcción](https://github.com/ProfaKeila/The-Groot/assets/112026718/758c4512-ce66-49e6-b707-334bfb112501) 
 
-**Componentes Electromecanicos:**
-El Robot se construyo utilizando el kit de robótica de LEGO Spike Prime. Ahora una breve descripción de cada componente electromecanico utilizado para la creación de este robot autónomo.
+**Electromechanical Components:**
 
-**Motores:** 
-1.	**Motor trasero Angular grande**: Este  motor interconectado a un engranaje  permite la rotación de las ruedas traseras, dando tracción trasera y torque en el movimiento.
-2.	**Motor delantero Angular mediano**: Este motor es el que permite la dirección al robot, y le permite el movimiento en los diferentes sentido.
+The robot was built using the LEGO Spike Prime robotics kit. Now, a brief description of each electromechanical component used in the creation of this autonomous robot.
 
-**Sensores:**
-1.	**Sensor Ultrasonico:** Este sensor se utiliza en su mayoría de veces para la medición de distancias y evasión de objetos.
-2.	.	**Sensor de color:** cuenta con una alta precisión en su frecuencia de muestreo de 1kHz, lo cual garantiza la obtención de datos precisos para lograr resultados repetibles. Además, tiene la capacidad de detectar 8 colores y medir tanto la intensidad de la luz blanca reflejada como la luz ambiente. Su factor de forma simple permite construirlo y reconstruirlo rápidamente, facilitando su uso y adaptación en diferentes situaciones.
-3.	Cámara HuskyLens: tomada como reemplazo de sensor de color del conjunto del Spike Prime, adopta la nueva generación de chips de IA, es utilizada para el reconocimiento de color y forma de objetos llamados obstáculos.
+**Motors:**
 
+**Large Angular Rear Motor:** This motor, connected to a gear, enables the rotation of the rear wheels, providing rear traction and torque in movement.
+
+**Medium Angular Front Motor:** This motor is responsible for steering the robot, allowing it to move in different directions.
 
 **Sensors:**
 
