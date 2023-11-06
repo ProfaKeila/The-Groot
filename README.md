@@ -75,11 +75,6 @@ Diseño del Robot
 [![Explain](assets/545.png)](https://youtu.be/4QOwgeUl5-I?si=DpHX9Tr0fYKvHIKd)
 
 **Dando vueltas**
-
-| Izquierda o decrecha con una sola programación | Evitando el obstáculo |
-| --- | --- |
-| Ángulos de Guiño | Ángulo de guiño y sensor de color |
-| [![Left_Video](assets/GreenClick.jpeg)](https://youtu.be/2Pd3Xvt8iUM) | [![Left_Video](assets/GreenClick.jpeg)](https://youtu.be/_-UqVCLI1og?si=oOWh4Tbge2MKK2M2) |
 -----------------------------------------------------
 | Izquierda | Derecha|
 | --- | --- |
