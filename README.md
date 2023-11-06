@@ -5,9 +5,13 @@ Robotics team The Groot
 Groot is a robot programmed for autonomous driving using sensors and motors from the LEGO Spike Prime kit.
 
 #### Team Details:
+
 **Team Name:** The Groot
+
 **Country:** Panama, Panama Oeste, Capira District
+
 **Team Members:** Genessis Reinosa, Verónica Chacón, and José Guisado
+
 **Coach:** Keila Chacón
 
 **Engineering Material:**
