@@ -1,32 +1,25 @@
 # The-Groot
 Robotics team The Groot
 # WRO-2023
-Equipo de Robótica The Groot
-Groot es un robot programado para conducir de forma autónoma utilizando sensores y motores del equipo de LEGO Spike Prime.
 
-#### Detalles del equipo:
-**Nombre del equipo**: The Groot
+Groot is a robot programmed for autonomous driving using sensors and motors from the LEGO Spike Prime kit.
 
-**País**: Panamá, Panamá Oeste, Distrito de Capira.
+#### Team Details:
+**Team Name:** The Groot
+**Country:** Panama, Panama Oeste, Capira District
+**Team Members:** Genessis Reinosa, Verónica Chacón, and José Guisado
+**Coach:** Keila Chacón
 
-**Miembros del equipo**: Genessis Reinosa, Verónica Chacón y José Guisado.
+**Engineering Material:**
+This repository contains the details of the Groot robot's construction, which is participating in the WRO-FUTUROS INGENIEROS competition in the WRO Panama 2023 world season. Details include:
 
-**Entrenadora**: Keila Chacón 
+**Team Photos:** It contains a carousel of team photos, including a formal photo and a fun photo.
 
---------------------
+**Vehicle Photos:** It contains six photos of the robot from six different angles, and the video of the robot's driving is available at the following link.
 
-#### Material de ingenieria:
-Este repositorio contiene el detalle de la construcción del robot Groot, que participa en la competencia WRO-FUTUROS INGENIEROS en la temporada mundial WRO Panamá 2023.
-**Datos**:
+**Sketch:** It includes a detailed outline of the electronic parts and motors of this robot and how they are connected for its operation.
 
-**Fotos del Equipo**: Contiene un carrucel de fotos del equipo.
-                      Foto formal y foto loca 
-
-**Fotos del Vehículo**: Contiene seis fotos del Robot, desde seis ángulos distintos, el video de la conducción del Robot se encuentra en el siguiente enlace.
-
-**Boceto**: Contiene un esquema detallado de las partes electrónicos y motores de este robot y como se conectan para su funcionamiento. 
-
-**Diagrama de lógica de conectividad**: Contiene una explicación del software, para los sensores y motores que fueron programados para la automatización del Robot.
+**Logic Connectivity Diagram:** It provides an explanation of the software used for the sensors and motors programmed for the robot's automation.
 
 ---------
 
