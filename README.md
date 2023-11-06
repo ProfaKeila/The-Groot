@@ -80,7 +80,12 @@ Diseño del Robot
 | --- | --- |
 | Ángulos de Guiño | Ángulo de guiño y sensor de color |
 | [![Left_Video](assets/GreenClick.jpeg)](https://youtu.be/2Pd3Xvt8iUM) | [![Left_Video](assets/GreenClick.jpeg)](https://youtu.be/_-UqVCLI1og?si=oOWh4Tbge2MKK2M2) |
-
+-----------------------------------------------------
+| Izquierda | Derecha|
+| --- | --- |
+| Sensor ultra distancia | Sensor de color |
+| [![Left_Video](assets/GreenClick.jpeg)](https://youtu.be/OL6q9jEXpvs) | [![Left_Video](assets/GreenClick.jpeg)](https://youtu.be/B-SupTOlSe8) |
+-----------------------------------------------------
 **Diagrama esquematico:**
 A continuación se presenta un boceto de todos los componentes electrónicos utilizados.
 
