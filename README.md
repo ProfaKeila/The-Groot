@@ -99,10 +99,8 @@ El Robot se construyo utilizando el kit de robótica de LEGO Spike Prime. Ahora 
 3.	Cámara HuskyLens: tomada como reemplazo de sensor de color del conjunto del Spike Prime, adopta la nueva generación de chips de IA, es utilizada para el reconocimiento de color y forma de objetos llamados obstáculos.
 
 ----------------------------------------------------------
-**Cerebro o Hub**
+**Hub**
 
-Es como un bloque avanzado lleno de asombrosas capacidades, tiene 6 puertos para conectar sensores y motores, una pizarra con 25 luces que puedes personalizar, así como también la posibilidad de comunicarte a través de Bluetooth. Además, cuenta con un altavoz para hacer ruidos y un giroscopio inteligente de 6 ejes que capta movimientos en todas direcciones.
-La batería es recargable para mantenerlo en funcionamiento durante un tiempo prolongado antes de necesitar cargarlo. Este dispositivo trae consigo su propio sistema operativo, como un cerebro, que es el MicroPython. También puede almacenar hasta 20 programas.
-Las luces incorporadas, dispuestas en una matriz 5x5, añaden un toque visual interactivo, mientras que su capacidad para hablar a través del altavoz y su conexión inalámbrica Bluetooth amplían las posibilidades de diversión.
+It's like an advanced block filled with amazing capabilities, it has 6 ports to connect sensors and motors, a board with 25 customizable lights, as well as the ability to communicate through Bluetooth. In addition, it has a speaker to make noises and a smart 6-axis gyroscope that captures movements in all directions. The battery is rechargeable to keep it running for an extended period before needing to charge it. This device comes with its own operating system, like a brain, which is MicroPython. It can also store up to 20 programs. The built-in lights, arranged in a 5x5 matrix, add an interactive visual touch, while its ability to speak through the speaker and its Bluetooth wireless connection expand the possibilities for fun.
 
 ----------------------------------------------------------
