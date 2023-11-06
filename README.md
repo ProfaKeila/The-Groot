@@ -1,6 +1,6 @@
 # The-Groot
 Robotics team The Groot
-# (Spanish version) The Groot - WRO-2023
+# WRO-2023
 Equipo de Robótica The Groot
 Groot es un robot programado para conducir de forma autónoma utilizando sensores y motores del equipo de LEGO Spike Prime.
 
@@ -97,6 +97,21 @@ El Robot se construyo utilizando el kit de robótica de LEGO Spike Prime. Ahora 
 1.	**Sensor Ultrasonico:** Este sensor se utiliza en su mayoría de veces para la medición de distancias y evasión de objetos.
 2.	.	**Sensor de color:** cuenta con una alta precisión en su frecuencia de muestreo de 1kHz, lo cual garantiza la obtención de datos precisos para lograr resultados repetibles. Además, tiene la capacidad de detectar 8 colores y medir tanto la intensidad de la luz blanca reflejada como la luz ambiente. Su factor de forma simple permite construirlo y reconstruirlo rápidamente, facilitando su uso y adaptación en diferentes situaciones.
 3.	Cámara HuskyLens: tomada como reemplazo de sensor de color del conjunto del Spike Prime, adopta la nueva generación de chips de IA, es utilizada para el reconocimiento de color y forma de objetos llamados obstáculos.
+
+
+**Sensors:**
+
+**Ultrasonic Sensor:** 
+
+This sensor is mainly used for distance measurement and object avoidance.
+
+**Color Sensor:**   
+
+It boasts high precision with a sampling frequency of 1kHz, ensuring the acquisition of accurate data for repeatable results. Additionally, it has the capability to detect 8 colors and measure both the intensity of reflected white light and ambient light. Its simple form factor allows for quick assembly and disassembly, making it easy to use and adapt in various situations.
+
+**HuskyLens Camera:**  
+
+Taken as a replacement for the color sensor in the Spike Prime set, it incorporates the latest generation of AI chips and is used for the recognition of color and shape of objects known as obstacles.
 
 ----------------------------------------------------------
 **Hub**
