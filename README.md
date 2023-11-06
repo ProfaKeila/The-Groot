@@ -28,11 +28,15 @@ This repository contains the details of the Groot robot's construction, which is
 ---------
 
 #### Team photo carousel:
+
 ![Carrusel de fotos ](https://github.com/ProfaKeila/The-Groot/assets/112026718/af9ee1f7-a4c2-4ad2-b629-48ccbaddd912)
+
 **Formal team photos**
+
 ![Formal](https://github.com/ProfaKeila/The-Groot/assets/112026718/a4da87f2-7b3a-4bbd-911e-92c6cf54db18)
 
 **Informal team photos**
+
 ![Loca](https://github.com/ProfaKeila/The-Groot/assets/112026718/63f75d30-57f7-45ae-bee4-7e51c4b50731)
 
 ------------------------------------
