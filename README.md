@@ -30,59 +30,60 @@ Este repositorio contiene el detalle de la construcción del robot Groot, que pa
 
 ---------
 
-#### Carrucel de fotos del equipo:
+#### Team photo carousel:
 ![Carrusel de fotos ](https://github.com/ProfaKeila/The-Groot/assets/112026718/af9ee1f7-a4c2-4ad2-b629-48ccbaddd912)
-**Fotos formal del Equipo**
+**Formal team photos**
 ![Formal](https://github.com/ProfaKeila/The-Groot/assets/112026718/a4da87f2-7b3a-4bbd-911e-92c6cf54db18)
-**Fotos informal del Equipo**
+
+**Informal team photos**
 ![Loca](https://github.com/ProfaKeila/The-Groot/assets/112026718/63f75d30-57f7-45ae-bee4-7e51c4b50731)
 
 ------------------------------------
 ------------------------------------
 
-**Fotos del robot:**
+**Robot pictures:**
 
-(i).	Cara frontal
+(i).		**Front face**
 ![Frontal](https://github.com/ProfaKeila/The-Groot/assets/112026718/565fc0f3-e19c-48a5-89e7-a98349901c3d)
 
 
-(ii).	Cara Posterior
+(ii).		**Back face**
 ![Posterior](https://github.com/ProfaKeila/The-Groot/assets/112026718/38068042-2f0f-4085-b71f-099bc75f4ae8)
 
 
-(iii). Cara Izquierda
+(iii). 	**Left face**
  ![Izquierda](https://github.com/ProfaKeila/The-Groot/assets/112026718/f1d17d99-e418-4d76-9f06-ac3a15a6f6fc)
 
 
-(iv).	Cara Derecha
+(iv).	**Right face**
  ![Derecha](https://github.com/ProfaKeila/The-Groot/assets/112026718/485e9fe3-cf48-4354-907a-c4e386d851e8)
 
 
-(v).	Cara Superior
+(v).		**Top face**
  ![Superior](https://github.com/ProfaKeila/The-Groot/assets/112026718/c8c30534-8cb0-41ce-a1a0-20afed59f536)
 
 
-(vi).	Cara inferior
+(vi).		**Bottom face**
 ![Inferior](https://github.com/ProfaKeila/The-Groot/assets/112026718/96e52935-4733-4316-a4c3-94e2697c4080)
   
 ------------------------------------------------
 ------------------------------------------------
 
-## **Enlace al video en Youtube**:
+## **Link to the video on YouTube**:
 
-Diseño del Robot
+Robot Design
 
 [![Explain](assets/545.png)](https://youtu.be/4QOwgeUl5-I?si=DpHX9Tr0fYKvHIKd)
 
-**Dando vueltas**
+**Turning left or right**
 -----------------------------------------------------
-| Izquierda | Derecha|
+|  Left   | Right |
 | --- | --- |
 | Sensor ultra distancia | Sensor de color |
 | [![Left_Video](assets/GreenClick.jpeg)](https://youtu.be/OL6q9jEXpvs) | [![Left_Video](assets/GreenClick.jpeg)](https://youtu.be/B-SupTOlSe8) |
 -----------------------------------------------------
-**Diagrama esquematico:**
-A continuación se presenta un boceto de todos los componentes electrónicos utilizados.
+**Schematic Diagram:**
+Schematic Diagram: Below is a sketch of all the electronic components used.
 
 ![guif construcción](https://github.com/ProfaKeila/The-Groot/assets/112026718/758c4512-ce66-49e6-b707-334bfb112501) 
 
