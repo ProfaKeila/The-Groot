@@ -15,7 +15,8 @@ Groot is a robot programmed for autonomous driving using sensors and motors from
 **Coach:** Keila Chacón
 
 **Engineering Material:**
-This repository contains the details of the Groot robot's construction, which is participating in the WRO-FUTUROS INGENIEROS competition in the WRO Panama 2023 world season. Details include:
+
+This repository contains the details of the Groot robot's construction, which is participating in the WRO- FUTURE ENGINEERS competition in the WRO Panama 2023 world season. Details include:
 
 **Team Photos:** It contains a carousel of team photos, including a formal photo and a fun photo.
 
@@ -80,7 +81,7 @@ Robot Design
 -----------------------------------------------------
 |  Left   | Right |
 | --- | --- |
-| Sensor ultra distancia | Sensor de color |
+| Sensor ultrasonic | Sensor of color |
 | [![Left_Video](assets/GreenClick.jpeg)](https://youtu.be/OL6q9jEXpvs) | [![Left_Video](assets/GreenClick.jpeg)](https://youtu.be/B-SupTOlSe8) |
 -----------------------------------------------------
 **Schematic Diagram:**
